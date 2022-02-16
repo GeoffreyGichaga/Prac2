@@ -18,3 +18,10 @@ main{
     margin: 10%;
     
 }
+
+footer>ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    list-style-type: none;
+}
